@@ -6,6 +6,10 @@ namespace CSharpReview_4Point2
     {
         static void Main(string[] args)
         {
+            string name;
+
+            name = Console.ReadLine();
+            Console.ReadLine();
             Console.WriteLine("Hello World!What a nice day today!");
         }
     }
